@@ -1,0 +1,4 @@
+outfit_1.png
+outfit_2.png
+outfit_3.png
+outfit_4.png
